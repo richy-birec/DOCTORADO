@@ -3,7 +3,7 @@
 
 ## Materiales y reactivos
 - Células HT29 congeladas en crioviales.
-- Medio de cultivo: DMEM (Dulbecco’s Modified Eagle Medium) con 10% de suero fetal bovino (SFB) y 1% de penicilina/estreptomicina (no es obligatorio usar ------antibioticos pero es muy util para evitar contaminacion).
+- Medio de cultivo: DMEM (Dulbecco’s Modified Eagle Medium) con 10% de suero fetal bovino (SFB) y 1% de penicilina/estreptomicina (no es obligatorio usar antibioticos pero es muy util para evitar contaminacion).
 - Solución de lavado: Puck's o solución salina inyectable o (PBS) a ph 7.6.
 - Tripsina-EDTA 0.25% o trpsina comercial lista para usar .
 - Botellas de cultivo celular (T25 o T75).
@@ -16,7 +16,7 @@
 1. Sacar el criovial de las células HT29 del nitrógeno líquido y/o de la ultracongelacion colocarlo rápidamente en un baño de agua a 37°C. Agitar suavemente para descongelar las células en 1-2 minutos.
 2. Una vez descongeladas, desinfectar el exterior del criovial con etanol al 70% antes de ingresar a la campana de flujo laminar.
 3. Transferir el contenido del criovial a un tubo cónico de 15 mL con 9 mL de medio de cultivo pre-calentado.
-- este medio de cultivo no debe coontener SFB ya que solo servira para lavar las celulas
+- Este medio de cultivo no debe contener SFB ya que solo servira para lavar las celulas
 4. Centrifugar entre 1200 a 2000 rpm por 5 minutos para eliminar el DMSO.
 
 ### 2. Resuspensión y siembra
@@ -40,7 +40,7 @@
 ### Notas:
 - Es importante monitorear la morfología de las células después de cada pase para asegurar que mantengan su fenotipo característico.
 - Ajustar el volumen de tripsina y tiempos de incubación según la respuesta de las células para evitar daño celular.
-- El SFB se puede reducir para poder retardar el crecimiento y dar el mantenimiento mas prolongadamente. 
+- El porcentaje de SFB se puede reducir para poder retardar el crecimiento y dar el mantenimiento mas prolongadamente. 
 
 
 

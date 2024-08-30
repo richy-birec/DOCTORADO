@@ -1,0 +1,38 @@
+## Determinación de la Solubilidad de la Proteína Objetivo (LngA)
+
+1. **Crecimiento de la cultuivo:**
+   - Inocular 10 ml de medio LB que contenga 100 µg/ml de ampicilina y 25 µg/ml de kanamicina en un matraz de 50 ml. Incubar a 37°C con agitación durante la noche.
+   - Inocular 50 ml de medio precalentado (con antibióticos) con 2.5 ml de la cultura nocturna y crecer a 37°C con agitación (~300 rpm) hasta que la OD600 sea 0.5-0.7.
+   - Tomar una muestra de 1 ml antes de la inducción (control no inducido), pelletear las células y resuspender en 50 µl de búfer de muestra 1x SDS-PAGE. Congelar a -20°C hasta su uso.
+   - Inducir la expresión añadiendo IPTG a una concentración final de 1 mM.
+   - Crecer las culturas por 4-5 horas adicionales. Recoger una segunda muestra de 1 ml (control inducido), pelletear las células y resuspender en 100 µl de búfer de muestra 1x SDS-PAGE. Congelar hasta su uso.
+   - Cosechar las células por centrifugación a 4000 x g durante 20 minutos.
+
+2. **Extracción de proteínas:**
+   - Resuspender el pellet celular en 5 ml de búfer de lisis para purificación nativa.
+   - Congelar la muestra en hielo seco/etanol y descongelar en agua fría. Alternativamente, añadir lisozima a 1 mg/ml e incubar en hielo durante 30 minutos.
+   - Sonicar 6 veces durante 10 s con pausas de 10 s a 200-300 W. Mantener el lisado en hielo todo el tiempo.
+   - Centrifugar el lisado a 10,000 x g a 4°C durante 20-30 minutos. Decantar el sobrenadante (extracto crudo A, proteína soluble) y guardar en hielo.
+   - Resuspender el pellet en 5 ml de búfer de lisis. Esta es una suspensión del material insoluble (extracto crudo B, proteína insoluble).
+
+3. **Análisis SDS-PAGE:**
+   - Añadir 5 µl de búfer de muestra 2x SDS-PAGE a 5 µl de los extractos crudos A y B.
+   - Calentar estas muestras, junto con las muestras congeladas de células no inducidas e inducidas, a 95°C durante 5 minutos.
+   - Microcentrifugar a 15,000 x g durante 1 minuto.
+
+## Purificación bajo Condiciones Desnaturalizantes
+
+1. **Preparación del lisado de *E. coli* bajo condiciones desnaturalizantes:**
+   - Descongelar el pellet celular durante 15 minutos en hielo y resuspender en búfer B (100 mM NaH₂PO₄, 10 mM Tris·Cl, 8 M urea, ajustar a pH 8.0) a 5 ml por gramo de peso húmedo.
+   - Las células pueden lisarse en 6 M GuHCl o 8 M urea. Es preferible lisar las células en urea para que el lisado pueda analizarse directamente mediante SDS-PAGE. Si se utiliza GuHCl, los resultados deben ser tratados antes del análisis por SDS-PAGE.
+   - Sonicar en hielo utilizando un sonicator equipado con una microsonda. Realizar seis ráfagas de 10 s a 200-300 W con un período de enfriamiento de 10 s entre cada ráfaga.
+   - Centrifugar el lisado a 10,000 x g durante 20-30 minutos a 4°C para pelletear los desechos celulares. Guardar el sobrenadante.
+
+2. **Purificación por lotes:**
+   - Añadir 1 ml de resina de Ni-NTA al 50% a 4 ml del lisado y mezclar suavemente agitando durante 15-60 minutos a temperatura ambiente.
+   - Cargar la mezcla lisado-Ni-NTA en una columna.
+   - Lavar la resina dos veces con 800 µl de búfer de lavado (100 mM NaH₂PO₄, 10 mM Tris·Cl, 8 M urea, ajustar a pH 6.3).
+   - Eluir la proteína cuatro veces con 100 µl de búfer de elución (100 mM NaH₂PO₄, 10 mM Tris·Cl, 8 M urea, ajustar a pH 4.5).
+   
+   ###   notas:
+   - 

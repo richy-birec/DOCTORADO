@@ -43,6 +43,69 @@
 - El porcentaje de SFB se puede reducir para poder retardar el crecimiento y dar el mantenimiento mas prolongadamente. 
 
 
+# Reactivos utilizados en el manejo de cultivos celulares
+
+- **Solución Salina Balanceada (PBS)**  
+  - Función: Solución isotónica usada para lavar células y tejidos, eliminando residuos sin afectar la viabilidad celular.
+  - Importancia: Mantiene la osmolaridad y previene daños celulares.
+
+- **Suero Fetal Bovino (FBS)**  
+  - Función: Suplemento del medio de cultivo que contiene factores de crecimiento y proteínas para promover el crecimiento celular.
+  - Importancia: Esencial para la proliferación y mantenimiento de células en cultivo.
+
+- **Dimetilsulfóxido (DMSO)**  
+  - Función: Crioprotector utilizado para congelar células evitando la formación de cristales de hielo.
+  - Importancia: Permite la preservación de células a largo plazo en nitrógeno líquido.
+
+- **Solución de Puck (Puck's Saline)**  
+  - Función: Solución isotónica utilizada para disociar células antes de la tripsinización.
+  - Importancia: Mantiene la viabilidad celular durante la disociación.
+
+- **Tripsina**  
+  - Función: Enzima que degrada proteínas para desprender células adherentes.
+  - Importancia: Facilita el pasaje de células adherentes sin dañar su viabilidad.
+
+- **EDTA (Ácido Etilendiaminotetraacético)**  
+  - Función: Quelante que se utiliza junto con tripsina para disociar células al secuestrar iones divalentes.
+  - Importancia: Mejora la disociación celular y evita la agregación.
+
+- **Medio de Cultivo (DMEM, RPMI-1640, etc.)**  
+  - Función: Proporciona nutrientes esenciales para el crecimiento y la supervivencia celular.
+  - Importancia: Mantiene un entorno adecuado para el cultivo in vitro.
+
+- **Antibióticos (Penicilina/Estreptomicina)**  
+  - Función: Previenen el crecimiento de bacterias y hongos en los cultivos celulares.
+  - Importancia: Garantizan la esterilidad y previenen la contaminación.
+
+- **Trypan Blue**  
+  - Función: Colorante usado para evaluar la viabilidad celular.
+  - Importancia: Permite identificar células viables y no viables.
+
+- **HEPES (Ácido 4-(2-hidroxietil)-1-piperazinaetanosulfónico)**  
+  - Función: Tampona el pH del medio de cultivo.
+  - Importancia: Mantiene el pH estable, esencial para la viabilidad celular.
+
+- **Tripsina-EDTA**  
+  - Función: Combinación para disociar células adherentes.
+  - Importancia: Facilita la recolección de células adherentes sin dañarlas.
+
+- **Glutamina**  
+  - Función: Aminoácido esencial para la proliferación celular.
+  - Importancia: Proporciona energía adicional en el cultivo celular.
+
+- **Sulfato de gentamicina**  
+  - Función: Antibiótico de amplio espectro que previene infecciones bacterianas.
+  - Importancia: Protege el cultivo de contaminaciones bacterianas.
+
+- **Fungizone (Anfotericina B)**  
+  - Función: Antifúngico que previene el crecimiento de hongos en cultivos celulares.
+  - Importancia: Mantiene la esterilidad del cultivo celular.
+
+- **Ácido Ascórbico (Vitamina C)**  
+  - Función: Antioxidante que previene el estrés oxidativo en las células.
+  - Importancia: Mejora la viabilidad y promueve la proliferación celular.
+
+
 
 
 
